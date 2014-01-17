@@ -49,7 +49,7 @@ var util = require('util')
 // Generates names from notable scientists and hackers.
 // checker is a function that takes a name (string) and
 // returns true if the name exists, else false.
-// retries is the number to attempts to make to generate
+// retries is the number of attempts to make to generate
 // a random name before failing.
 // Returns name or null if unable to generate a name that
 // doesn't exist after the specified number of retries.
