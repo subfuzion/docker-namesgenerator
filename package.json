@@ -1,0 +1,26 @@
+{
+  "name": "docker-namesgenerator",
+  "version": "0.0.1",
+  "description": "Port of Docker 0.7.x namesgenerator from go to node.",
+  "main": "namesgenerator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonypujals/docker-namesgenerator.git"
+  },
+  "keywords": [
+    "docker",
+    "namesgenerator"
+  ],
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "bugs": {
+    "url": "https://github.com/tonypujals/docker-namesgenerator/issues"
+  },
+  "homepage": "https://github.com/tonypujals/docker-namesgenerator"
+}
