@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tonypujals/docker-namesgenerator/issues"
   },
-  "homepage": "https://github.com/tonypujals/docker-namesgenerator"
+  "homepage": "https://github.com/tonypujals/docker-namesgenerator",
+  "devDependencies": {
+    "mocha": "~1.17.0"
+  }
 }
