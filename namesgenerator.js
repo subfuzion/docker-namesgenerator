@@ -46,8 +46,6 @@ var util = require('util')
   , right = [ "lovelace", "franklin", "tesla", "einstein", "bohr", "davinci", "pasteur", "nobel", "curie", "darwin", "turing", "ritchie", "torvalds", "pike", "thompson", "wozniak", "galileo", "euclid", "newton", "fermat", "archimedes", "poincare", "heisenberg", "feynman", "hawking", "fermi", "pare", "mccarthy", "engelbart", "babbage", "albattani", "ptolemy", "bell", "wright", "lumiere", "morse", "mclean", "brown", "bardeen", "brattain", "shockley" ]
   ;
 
-// module.exports = namesgenerator;
-
 // Generates names from notable scientists and hackers.
 // checker is a function that takes a name (string) and
 // returns true if the name exists, else false.
