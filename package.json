@@ -15,7 +15,7 @@
     "namesgenerator"
   ],
   "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
-  "license": "MIT",
+  "license": "Apache License, Version 2.0",
   "directories": {
     "example": "example"
   },
