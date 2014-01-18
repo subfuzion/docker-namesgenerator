@@ -1,4 +1,4 @@
-// This is a port of the Docker 0.7.x go code that generates names from ntoable scientists and hackers.
+// This is a port of the Docker 0.7.x go code that generates names from notable scientists and hackers.
 // https://github.com/dotcloud/docker/blob/master/pkg/namesgenerator/names-generator.go
 // docker license: Apache v 2.0 (https://github.com/dotcloud/docker/blob/master/LICENSE)
 
