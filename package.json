@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "homepage": "https://github.com/tonypujals/docker-namesgenerator",
   "repository": {
     "type": "git",
     "url": "https://github.com/tonypujals/docker-namesgenerator.git"
@@ -22,7 +23,6 @@
   "bugs": {
     "url": "https://github.com/tonypujals/docker-namesgenerator/issues"
   },
-  "homepage": "https://github.com/tonypujals/docker-namesgenerator",
   "devDependencies": {
     "mocha": "~1.17.0"
   }
