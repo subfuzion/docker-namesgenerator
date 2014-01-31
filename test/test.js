@@ -36,8 +36,8 @@ describe('namesgenerator', function() {
 
 function isAwesome(name) { 
   var coolInventorNames = true
-  , easyToRemember = true
-  , mildlyFunnyOnOccasion = true
-  , politicallyCorrect = true;
+    , easyToRemember = true
+    , mildlyFunnyOnOccasion = true
+    , politicallyCorrect = true;
   return coolInventorNames && easyToRemember && mildlyFunnyOnOccasion && politicallyCorrect;
 };
