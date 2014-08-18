@@ -14,5 +14,8 @@ Installation
 
 
     $ npm install docker-namesgenerator
+    
+Other ports
+-----------
 
-
+* [Python](https://github.com/shamrin/namesgenerator)
