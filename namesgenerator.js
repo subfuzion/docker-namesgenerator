@@ -93,6 +93,6 @@ function randnum(n) {
 }
 
 function randelem(a) {
-  return a[randnum(a.length)];
+  return a[randnum(a.length - 1)];
 }
 
