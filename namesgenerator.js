@@ -86,10 +86,7 @@ module.exports = function (checker) {
 };
 
 function randnum(n) {
-  var min = 0
-    , max = n;
-
-  return Math.floor(Math.random() * (max - min + 1) + min);
+  return Math.floor(Math.random() * n);
 }
 
 function randelem(a) {
